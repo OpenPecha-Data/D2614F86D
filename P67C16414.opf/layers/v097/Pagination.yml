@@ -1296,79 +1296,79 @@ annotations:
     reference: ''
     span:
       start: 251786
-      end: 253545
+      end: 253547
   c5078754de5e4edda9d886a25b9726d7:
     imgnum: 820
     reference: ''
     span:
-      start: 253547
-      end: 255554
+      start: 253549
+      end: 255556
   f1bb13ab24994c7a9a695080cb10ccda:
     imgnum: 821
     reference: ''
     span:
-      start: 255556
-      end: 257534
+      start: 255558
+      end: 257536
   a488d63649944ec6a511b5192adb852e:
     imgnum: 822
     reference: ''
     span:
-      start: 257536
-      end: 259557
+      start: 257538
+      end: 259559
   1c99ba131edf489aa2ea016b9f5027cd:
     imgnum: 823
     reference: ''
     span:
-      start: 259559
-      end: 261607
+      start: 259561
+      end: 261609
   ba9e0e0b95b64f269a7bef1bdcb2a054:
     imgnum: 824
     reference: ''
     span:
-      start: 261609
-      end: 263520
+      start: 261611
+      end: 263522
   ff7b8f56f3f343aa91d08b4930c99c7c:
     imgnum: 825
     reference: ''
     span:
-      start: 263522
-      end: 265488
+      start: 263524
+      end: 265490
   bccc75b8f7f0472ba56a4f5227dc8b5b:
     imgnum: 826
     reference: ''
     span:
-      start: 265490
-      end: 267368
+      start: 265492
+      end: 267370
   325a7d436c294efbb29ee56242a1875c:
     imgnum: 827
     reference: ''
     span:
-      start: 267370
-      end: 269364
+      start: 267372
+      end: 269366
   3fa6aab1c3064e6992262c97c96b64eb:
     imgnum: 828
     reference: ''
     span:
-      start: 269366
-      end: 271470
+      start: 269368
+      end: 271472
   d0844abfbb7d4e9392c139bd97c42b82:
     imgnum: 829
     reference: ''
     span:
-      start: 271472
-      end: 273705
+      start: 271474
+      end: 273707
   9e36bb5842434ff9891ea262d5c30c4b:
     imgnum: 830
     reference: ''
     span:
-      start: 273707
-      end: 275606
+      start: 273709
+      end: 275608
   0c9745a5b536411c89b361184a96b28b:
     imgnum: 831
     reference: ''
     span:
-      start: 275608
-      end: 276068
+      start: 275610
+      end: 276070
 local_ids:
   69bdc698392c4d5f8f2c26eb101de0d5: 200000
   8d641e030c424bc4981ba69b61435de5: 200001
